@@ -1,6 +1,6 @@
 # my first test repo yahoo!
 
-Hellow world!
+Hello world!
 
 Some more text.
 
